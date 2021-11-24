@@ -7,3 +7,6 @@ Non 被设计为简单高效。完全用C / C++编写，以实现高性能，而
 
 [audiotool](https://www.audiotool.com/)
 免费在线创作工具
+
+[tracktion](https://www.tracktion.com/)
+有免费版
